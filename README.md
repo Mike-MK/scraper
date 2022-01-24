@@ -1,5 +1,5 @@
 # Web Scraper
-A python desktop application that produces a list of all unique words in a webpage and their occurrences
+A python desktop application that produces a list of all unique words in a webpage and their number of occurrences
 
 ## Description 
 Uses [BeatifulSoup](https://github.com/waylan/beautifulsoup) to pull html content from the URL provided.
